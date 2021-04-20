@@ -4,7 +4,7 @@
 ### Atividade em duplas
 ### Data de entrega: A atividade poderá ser entregue até o dia 30/04 (sexta-feira)
 #### Duplas declaradas no servidor do discord
-Cada dupla deverá entregar o arquivo `ordenatio_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos da Dupla**.
+Cada dupla deverá entregar o arquivo `ordenation_RM1_RM2.py` onde o **RM é o (Registro de Matrícula) de cada um dos alunos da Dupla**.
 
 ---
 ## Entregáveis
@@ -22,7 +22,7 @@ Cada dupla deverá entregar o arquivo `ordenatio_RM1_RM2.py` onde o **RM é o (R
 Trabalho deve ser realizado em duplas
 Cada dupla entregará apenas um código
 O nome dos integrantes deve constar na forma de comentário multiline no corpo do código
-Apenas um integrante da dupla deverá entregar o arquivo fibonacci_RM1_RM2.py 
+Apenas um integrante da dupla deverá entregar o arquivo ordenation_RM1_RM2.py 
 
 
 ### Padrão de entrega
@@ -34,7 +34,7 @@ FIAP
 Defesa Cibernética - 1TDCF - 2021
 Development e Coding for Security
 Prof. Ms. Fábio H. Cabrini
-Atividade: Check Point 1  
+Atividade: Check Point 2 
 Alunos
 Nome - RM00000
 Nome - RM00000  
@@ -42,7 +42,7 @@ Nome - RM00000
     Codigo
 ```
   
-- Após finalizar todo código eviar no [formulario](https://forms.gle/uFsrEd1bVBpZZ396A) 
+- Após finalizar todo código eviar no [formulario](https://forms.gle/Y4PbUo3ycFNBUUuq6) 
 
 ---
 
@@ -52,8 +52,15 @@ Neste projeto, verificamos se você é capaz de:
 
 - Utilizar IF em estrutura aninhada
 - Utilizar While para fazer as repetições necessárias
+- Utilizar variaves com array
 
 ---
+
+# IMPORTANTE
+
+Nesse projeto não é permitido o sudo de:
+
+- Função sort()
 
 ### ANTES DE COMEÇAR A DESENVOLVER
 
